@@ -11,6 +11,11 @@ This is a fun project made with Python where I have used the following libraries
 
 - Interactivity: Users can change brush colors, adjust brush size, and clear the canvas—all without physical contact. This hands-free approach opens up possibilities for creative expression, educational tools, and even augmented reality applications 
 
+# Libraries Required:
+
+```bash
+pip install numpy cv2 mediapipe
+```
 
 
 # 𝗙𝘂𝘁𝘂𝗿𝗲 𝗘𝗻𝗵𝗮𝗻𝗰𝗲𝗺𝗲𝗻𝘁𝘀:
